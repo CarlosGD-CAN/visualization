@@ -7,23 +7,57 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
-    > What software did you use to create your data visualization?
 
-    > Who is your intended audience? 
-    
-    > What information or message are you trying to convey with your visualization? 
-    
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
-    > How did you ensure that your data visualization is accessible?  
-    
-    > Who are the individuals and communities who might be impacted by your visualization?  
-    
-    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
-    > What ‘underwater labour’ contributed to your final data visualization product?
+#Visualization 1: Line Chart of Average Occupancy and Capacity Over Time#
+Software Used:
+I used Python with Matplotlib for this visualization due to its flexibility and reproducibility in creating detailed, customizable plots.
+Intended Audience:
+City planners, social service agencies, and policymakers focused on addressing homelessness.
+Message:
+This visualization highlights trends in average shelter occupancy and capacity over time, emphasizing periods of strain on the system and identifying potential gaps in resources.
+Design Principles:
+1.	Substantive: The data was aggregated by date to avoid overwhelming the audience with daily fluctuations and emphasize broader trends.
+2.	Perceptual: Distinct colors (blue for occupancy and orange for capacity) with a clear legend were used to ensure the audience could easily differentiate the variables.
+3.	Aesthetic: A minimalist design was applied, with gridlines for better readability and appropriate labeling of axes to clarify meaning.
+Reproducibility:
+The Python code is fully reproducible, as it includes all steps from data loading to plot creation. Sharing the script allows others to replicate and customize the visualization.
+Accessibility:
+The use of colorblind-friendly palettes ensures inclusivity, and providing the script enables compatibility with assistive technologies.
+Impact:
+This visualization could influence decisions on shelter resource allocation and emergency response planning.
+Data Features:
+I focused on daily averages for occupancy and capacity, excluding individual shelter-level details to avoid unnecessary complexity.
+Underwater Labour:
+Data preprocessing, including cleaning invalid entries, calculating daily averages, and converting date formats, was essential to ensure the visualization was meaningful.
+________________________________________
+Visualization 2: Bar Chart of Average Occupancy Rate by Shelter Type
+Software Used:
+I created this visualization in Excel because of its simplicity and widespread accessibility among stakeholders.
+Intended Audience:
+General public and advocacy groups seeking a high-level overview of shelter usage by type.
+Message:
+The bar chart highlights differences in occupancy rates across various shelter types, such as family shelters and youth shelters, to identify disparities in resource utilization.
+Design Principles:
+1.	Substantive: The focus was on average occupancy rates rather than raw counts to ensure comparability across shelter types.
+2.	Perceptual: Bar heights were scaled proportionally to the occupancy rate, and category labels were clear and concise.
+3.	Aesthetic: A clean, uniform color scheme was applied to minimize distractions, with category names rotated for readability.
+Reproducibility:
+While Excel is less programmatically reproducible than Python, the steps for creating the visualization were documented, and the dataset is publicly available for replication.
+Accessibility:
+Legible fonts, clear labels, and high-contrast colors were used to ensure readability. Additionally, the data table underlying the chart was included for transparency.
+Impact:
+This chart could help identify shelter types that require additional funding or policy intervention to address disparities.
+Data Features:
+Only the shelter type and occupancy rate were included, as these are directly relevant to the audience's needs. Excess metadata was excluded to maintain focus.
+Underwater Labour:
+I calculated occupancy rates, removed irrelevant columns, and formatted the data for Excel, ensuring consistency across categories.
+________________________________________
+Conclusion:
+Both visualizations serve distinct purposes: the line chart identifies temporal trends, while the bar chart compares shelter performance. Together, they provide a comprehensive overview of shelter usage in Toronto, empowering stakeholders to make informed decisions.
+
+
+
+   
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
