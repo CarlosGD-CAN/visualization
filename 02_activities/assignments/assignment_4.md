@@ -8,6 +8,7 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
 
+__ANSWER 
 #### Dataset Selection:
 I selected the Daily Shelter Overnight Service Occupancy & Capacity dataset from the City of Toronto’s Open Data Portal. This dataset provides daily statistics on shelter occupancy and capacity by shelter type, which is critical for understanding trends in homelessness and resource utilization.
 
