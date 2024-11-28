@@ -8,7 +8,7 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
 
-_Visualization 1: Line Chart of Average Occupancy and Capacity Over Time_
+##_Visualization 1: Line Chart of Average Occupancy and Capacity Over Time_##
 Software Used:
 I used Python with Matplotlib for this visualization due to its flexibility and reproducibility in creating detailed, customizable plots.
 Intended Audience:
