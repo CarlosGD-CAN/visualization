@@ -9,13 +9,13 @@
 - For each visualization, describe and justify: 
 
 ### Visualization 1: Line Chart of Average Occupancy and Capacity Over Time
-Software Used:
+#### Software Used:
 I used Python with Matplotlib for this visualization due to its flexibility and reproducibility in creating detailed, customizable plots.
-Intended Audience:
+#### Intended Audience:
 City planners, social service agencies, and policymakers focused on addressing homelessness.
-Message:
+#### Message:
 This visualization highlights trends in average shelter occupancy and capacity over time, emphasizing periods of strain on the system and identifying potential gaps in resources.
-Design Principles:
+#### Design Principles:
 1.	Substantive: The data was aggregated by date to avoid overwhelming the audience with daily fluctuations and emphasize broader trends.
 2.	Perceptual: Distinct colors (blue for occupancy and orange for capacity) with a clear legend were used to ensure the audience could easily differentiate the variables.
 3.	Aesthetic: A minimalist design was applied, with gridlines for better readability and appropriate labeling of axes to clarify meaning.
