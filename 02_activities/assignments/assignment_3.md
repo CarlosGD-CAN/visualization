@@ -10,6 +10,7 @@
         Effective Visualization: Energy Consumption vs. GDP Dashboard
         Accessibility, Reproducibility, and Equity:
         The visualization is accessible due to its clear design and interactivity but could improve with screen reader compatibility and downloadable data summaries. It is reproducible, but providing direct access to the dataset and methodology would enhance transparency. Equity is fair, but adding context for regional disparities could improve understanding.
+        
         Ineffective Visualization: Radial Stacked Bar Charts
         Accessibility, Reproducibility, and Equity:
         The radial design hampers accessibility, especially for visually impaired users. Lack of labels, legends, and dataset details limits reproducibility. The complexity excludes non-expert audiences, raising equity concerns.
@@ -22,6 +23,7 @@
         * Add screen reader support and data tables for accessibility.
         * Include raw data and methodology for reproducibility.
         * Highlight regional differences to address equity.
+        
         Ineffective Visualization: Radial Stacked Bar Charts
         Improvements:
         * Replace with a simple bar chart and improve labels for accessibility.
