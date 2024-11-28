@@ -56,9 +56,6 @@ ________________________________________
 Both visualizations serve distinct purposes: the line chart identifies temporal trends, while the bar chart compares shelter performance. Together, they provide a comprehensive overview of shelter usage in Toronto, empowering stakeholders to make informed decisions.
 
 
-
-   
-
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
