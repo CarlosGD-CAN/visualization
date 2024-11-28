@@ -10,24 +10,22 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+        Effective Visualization: Energy Consumption vs. GDP Dashboard
+        Source: Tableau Public: Energy for Growth Hub
+        This visualization effectively illustrates the correlation between energy consumption and GDP growth. It demonstrates adherence to core principles of strong data visualizations: clarity, precision, and interactivity. The scatter plot format is an excellent choice for showcasing relationships, with well-defined axes that provide context. The interactive elements allow users to explore the data in greater depth, adding flexibility. The subtle color scheme, combined with concise tooltips offering extra details without overwhelming the chart, enhances the overall readability. By incorporating clear labels and a user-friendly design, this visualization ensures accessibility even for audiences without technical expertise.
 
-
-
-
-
-
+        Ineffective Visualization: Radial Stacked Bar Charts by Ryan Rowland
+        Source: Tableau Public: Ryan Rowland
+        This visualization falls short in terms of usability and comprehension due to several design flaws. The radial format complicates the interpretation of the data, making it hard to compare segment sizes accurately. This design choice, combined with the angular layout of the segments, diminishes the effectiveness of analyzing trends or proportions. Additionally, the chart suffers from overcrowding due to an excessive number of segments, leading to a cluttered appearance that distracts from key insights. The absence of proper labeling and a comprehensive legend further hampers the viewer's ability to understand the data. Lastly, while the colors used in the chart are somewhat distinct, they lack sufficient contrast to make each segment stand out clearly.
 
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+        Suggestions for Enhancing the Good Visualization:
+        To make the visualization even more impactful, it would benefit from incorporating clearly highlighted trends or key insights. Drawing the viewer’s attention to the most significant findings through annotations or callouts could enhance its interpretability and storytelling value.
 
-
-
-
-
-
+        Recommendations for Improving the Poor Visualization:
+        The radial format should be replaced with simpler, more intuitive chart types like bar or line charts, which are far better at enabling category comparisons. Additionally, the visualization could be improved with more precise labels, a well-defined legend, and a high-contrast color scheme to enhance clarity and accessibility for all users.
       
       ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
