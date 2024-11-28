@@ -2,6 +2,14 @@
 
 ## Assignment 1: Participation (Ongoing)
 
+UPLOADED:
+Assignment--1 A.ipynb
+Assignment--1 B.ipynb
+Assignment--1 C.ipynb
+Assignment--1 D.ipynb
+
+Backup files to support/answer Assignment--1
+
 ### Requirements:
 
 - During every class, follow along with sample code from the slides. All code that you should be running in Python is formatted as follows:
