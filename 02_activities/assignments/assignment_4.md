@@ -19,40 +19,40 @@ This visualization highlights trends in average shelter occupancy and capacity o
 1.	Substantive: The data was aggregated by date to avoid overwhelming the audience with daily fluctuations and emphasize broader trends.
 2.	Perceptual: Distinct colors (blue for occupancy and orange for capacity) with a clear legend were used to ensure the audience could easily differentiate the variables.
 3.	Aesthetic: A minimalist design was applied, with gridlines for better readability and appropriate labeling of axes to clarify meaning.
-Reproducibility:
+#### Reproducibility:
 The Python code is fully reproducible, as it includes all steps from data loading to plot creation. Sharing the script allows others to replicate and customize the visualization.
-Accessibility:
+#### Accessibility:
 The use of colorblind-friendly palettes ensures inclusivity, and providing the script enables compatibility with assistive technologies.
-Impact:
+#### Impact:
 This visualization could influence decisions on shelter resource allocation and emergency response planning.
 Data Features:
 I focused on daily averages for occupancy and capacity, excluding individual shelter-level details to avoid unnecessary complexity.
-Underwater Labour:
+#### Underwater Labour:
 Data preprocessing, including cleaning invalid entries, calculating daily averages, and converting date formats, was essential to ensure the visualization was meaningful.
 ________________________________________
-Visualization 2: Bar Chart of Average Occupancy Rate by Shelter Type
-Software Used:
+### Visualization 2: Bar Chart of Average Occupancy Rate by Shelter Type
+#### Software Used:
 I created this visualization in Excel because of its simplicity and widespread accessibility among stakeholders.
-Intended Audience:
+#### Intended Audience:
 General public and advocacy groups seeking a high-level overview of shelter usage by type.
-Message:
+#### Message:
 The bar chart highlights differences in occupancy rates across various shelter types, such as family shelters and youth shelters, to identify disparities in resource utilization.
-Design Principles:
+#### Design Principles:
 1.	Substantive: The focus was on average occupancy rates rather than raw counts to ensure comparability across shelter types.
 2.	Perceptual: Bar heights were scaled proportionally to the occupancy rate, and category labels were clear and concise.
 3.	Aesthetic: A clean, uniform color scheme was applied to minimize distractions, with category names rotated for readability.
-Reproducibility:
+#### Reproducibility:
 While Excel is less programmatically reproducible than Python, the steps for creating the visualization were documented, and the dataset is publicly available for replication.
-Accessibility:
+#### Accessibility:
 Legible fonts, clear labels, and high-contrast colors were used to ensure readability. Additionally, the data table underlying the chart was included for transparency.
-Impact:
+#### Impact:
 This chart could help identify shelter types that require additional funding or policy intervention to address disparities.
-Data Features:
+#### Data Features:
 Only the shelter type and occupancy rate were included, as these are directly relevant to the audience's needs. Excess metadata was excluded to maintain focus.
-Underwater Labour:
+#### Underwater Labour:
 I calculated occupancy rates, removed irrelevant columns, and formatted the data for Excel, ensuring consistency across categories.
 ________________________________________
-Conclusion:
+### Conclusion:
 Both visualizations serve distinct purposes: the line chart identifies temporal trends, while the bar chart compares shelter performance. Together, they provide a comprehensive overview of shelter usage in Toronto, empowering stakeholders to make informed decisions.
 
 
